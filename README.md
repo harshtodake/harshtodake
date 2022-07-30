@@ -1,5 +1,5 @@
 ### Hi there 👋
-        ![image](https://user-images.githubusercontent.com/83589184/181934222-98432ebb-1768-405a-91ab-df5320bef629.png)
+
 
 <!--
 **harshtodake/harshtodake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
