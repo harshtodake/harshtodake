@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Harshraj Todake
 ### I'm a Web Developer!
-I am a Software Engineer and independent full-stack Web developer living in India. I mostly work with JavaScript (Angular, ReactJs & Node.js), but have also experience with Python, PHP, and others.
+I am a Software Engineer and  Web developer living in India. I mostly work with JavaScript (Angular, ReactJs & Node.js).
 <!--
 **harshtodake/harshtodake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
